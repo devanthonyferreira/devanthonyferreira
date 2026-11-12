@@ -30,7 +30,7 @@ Sou desenvolvedor Front-End apaixonado por criar interfaces limpas, acessíveis 
 ## 📊 Linguagens mais usadas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anthonyluccas&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devanthonyferreira&layout=compact&hide_border=true&theme=transparent" alt="Linguagens mais usadas" />
 </p>
 
 ## 💬 Frase favorita
@@ -40,7 +40,7 @@ Sou desenvolvedor Front-End apaixonado por criar interfaces limpas, acessíveis 
 ## 📫 Vamos conversar?
 
 <p>
-  <a href="https://www.linkedin.com/in/luccasdev/" target="_blank">
+  <a href="https://www.linkedin.com/in/devanthonyferreira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://www.instagram.com/anthonytecch/" target="_blank">
